@@ -1,4 +1,4 @@
-# OpenAI React App
+# OpenAI React Chatbot App
 
 This is a basic React app connected to the OpenAI API via a .env file. The app is responsive and highly customizable, all you have to do is connect your own API from the OpenAI website.
 
