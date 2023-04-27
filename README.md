@@ -14,7 +14,7 @@ git clone https://github.com/your-username/openai-react-chatbot-free-template.gi
 Navigate to the project directory:
 
 ```bash
-cd openai-react-free-template
+cd openai-react-chatbot-free-template
 ```
 
 Install dependencies:
