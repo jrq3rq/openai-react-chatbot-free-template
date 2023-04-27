@@ -33,6 +33,10 @@ REACT_APP_OPENAI_API_KEY=<your-api-key>
 
 In the project directory, you can run:
 
+### `node index.js`
+
+then,
+
 ### `npm start`
 
 Runs the app in development mode.\
