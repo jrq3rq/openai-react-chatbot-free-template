@@ -7,13 +7,14 @@ This is a basic React app connected to the OpenAI API via a .env file. The app i
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/openai-react-app.git
+git clone https://github.com/your-username/openai-react-free-template.git
+
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd openai-react-app
+cd openai-react-free-template
 ```
 
 Install dependencies:
