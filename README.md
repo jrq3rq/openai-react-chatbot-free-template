@@ -35,7 +35,7 @@ In the project directory, you can run:
 
 ### `node index.js`
 
-then,
+to first run the API on http://localhost:3001
 
 ### `npm start`
 
