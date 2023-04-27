@@ -7,7 +7,7 @@ This is a basic React app connected to the OpenAI API via a .env file. The app i
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/openai-react-free-template.git
+git clone https://github.com/your-username/openai-react-chatbot-free-template.git
 
 ```
 
